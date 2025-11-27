@@ -54,14 +54,15 @@ Option 1: Open in Browser
 3. Screenshots
 
 Category Page
-![image alt]()
+![image alt](https://github.com/geetu9/product-catalog/blob/main/homepage.png)
 
 Product List Page
-![image alt]()
-![image alt]()
-![image alt]()
+![image alt](https://github.com/geetu9/product-catalog/blob/main/product1.png)
+![image alt](https://github.com/geetu9/product-catalog/blob/main/product2.png)
+![image alt](https://github.com/geetu9/product-catalog/blob/main/produbt3.png)
+![image alt](https://github.com/geetu9/product-catalog/blob/main/product4.png)
 Cart Page
-![image alt]()
+![image alt](https://github.com/geetu9/product-catalog/blob/main/addcart.png)
 
 
 workflow screen recording
