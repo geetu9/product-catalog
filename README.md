@@ -85,6 +85,7 @@ extra Features
 1. There is no backend or API; all data is mock JSON stored in *script.js*
 2. Cart data is not saved after page refresh
 3. Each category contains four sample products
-
+   
+ live webpage url:- https://onlinestoreusinghtmlcssjs.netlify.app/
 
 
