@@ -65,7 +65,11 @@ Cart Page
 ![image alt](https://github.com/geetu9/product-catalog/blob/main/addcart.png)
 
 
-workflow screen recording
+workflow screen recording:-
+
+
+https://github.com/user-attachments/assets/5ae92563-ab39-4a78-ba3f-1b71d294647a
+
 
 
 extra Features 
